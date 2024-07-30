@@ -1,0 +1,27 @@
+h1{
+    font-size: 40px;
+    text-align: center;
+    background: #000;
+    color: orange;
+    padding: 10px;
+}
+
+img{
+    width: 100%;
+}
+.link{
+    border-bottom: 2px solid;
+    padding: 10px;
+    color: blue;
+}
+.link a{
+    font-size: 20px;
+}
+a:hover{
+    color:orange ;
+}
+a:hover {
+    color: orange;
+    border: 2px solid rgb(0, 134, 128);
+    background-color: rgb(19, 209, 177);
+}
